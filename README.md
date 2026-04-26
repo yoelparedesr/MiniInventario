@@ -15,3 +15,5 @@ Abrir el proyecto en IntelliJ IDEA y ejecutar la clase Main.
 
 añade estructura del proyecto y mejora salida inicial
 
+## Nota temporal
+Pendiente documentar la nueva mejora en Main
